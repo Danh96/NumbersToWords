@@ -1,0 +1,5 @@
+/Users/hayesd5/Projects/NumbersToWords/NumbersToWords/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/hayesd5/Projects/NumbersToWords/NumbersToWords/bin/Debug/NumbersToWords.pdb
+/Users/hayesd5/Projects/NumbersToWords/NumbersToWords/bin/Debug/NumbersToWords.exe
+/Users/hayesd5/Projects/NumbersToWords/NumbersToWords/obj/x86/Debug/NumbersToWords.exe
+/Users/hayesd5/Projects/NumbersToWords/NumbersToWords/obj/x86/Debug/NumbersToWords.pdb
